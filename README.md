@@ -1,2 +1,0 @@
-# cinema
-init cinema page
